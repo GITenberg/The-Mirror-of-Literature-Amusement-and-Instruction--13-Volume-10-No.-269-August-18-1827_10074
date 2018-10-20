@@ -20,7 +20,7 @@ Release Date: October 13, 2003  [eBook #10074]
 
 Language: English
 
-Chatacter set encoding: iso-8859-1
+Character set encoding: iso-8859-1
 
 
 ***START OF THE PROJECT GUTENBERG EBOOK THE MIRROR OF LITERATURE,
